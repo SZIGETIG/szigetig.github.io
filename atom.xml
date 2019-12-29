@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aroza</title>
+  
+  <subtitle>Stay Calm</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://szigetig.github.io/"/>
+  <updated>2019-12-29T00:46:36.784Z</updated>
+  <id>http://szigetig.github.io/</id>
+  
+  <author>
+    <name>Szigeti Gao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Drupal自定义Webform表单+Vue单页面应用</title>
+    <link href="http://szigetig.github.io/2019/12/28/hello-world/"/>
+    <id>http://szigetig.github.io/2019/12/28/hello-world/</id>
+    <published>2019-12-28T12:02:04.047Z</published>
+    <updated>2019-12-29T00:46:36.784Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="编程方式自定义表单"><a href="#编程方式自定义表单" class="headerlink" title="编程方式自定义表单"></a>编程方式自定义表单</h2><h3 id="定义表单"><a href="#定义表单" class="headerlink" title="定义表单"></a>定义表单</h3><p>创建一个module文件夹，文件夹名为表单名</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    
+    <summary type="html">
+    
+      鉴于国内资料较少，在Youtube上看了一段时间的Drupal中Webform的表单使用，整理如下
+    
+    </summary>
+    
+    
+    
+      <category term="Drupal" scheme="http://szigetig.github.io/tags/Drupal/"/>
+    
+      <category term="Vue" scheme="http://szigetig.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+</feed>
